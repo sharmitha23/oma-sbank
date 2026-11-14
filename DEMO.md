@@ -15,7 +15,7 @@ Open `http://localhost:8000/?customer=CUST01365`. The app opens in Finnish; tap 
 | Criterion | Where OMA shows it |
 |---|---|
 | Financial literacy & pedagogy | Three baskets everywhere; pay-cycle chart; 💡 lesson in answers; 10 team-written lessons; spender profile with kind tips; vetted next steps; Statistics Finland + age-peer benchmarks |
-| Originality of AI integration | AI as interpreter over 17 deterministic tools; grounding check with retry and fallback; topic guards; Show-the-math; answers come with charts; works offline |
+| Originality of AI integration | AI as interpreter over 16 deterministic tools; grounding check with retry and fallback; topic guards; Show-the-math; answers come with charts; works offline |
 | Mobile UX clarity | 4 tabs, one job each; hero number first; bottom sheets; one-handed at 390px; FI/SV/EN switch |
 | Feasibility | Runs on the full S-Pankki dataset (3.6M rows) on a laptop; MCC rules in plain Python; balance-aware; no new bank integration needed |
 | S-mobiili integration | Finnish-first and bilingual like S-mobiili; WebView-ready; S-Bank green palette; peer benchmarks from S-Bank's own customers; PSD2 data from other banks would plug into the same engine as extra transactions |
