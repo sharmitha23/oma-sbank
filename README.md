@@ -3,7 +3,7 @@
 **An AI financial coach for S-mobiili.** Built at **Junction 2026** for the **S-Pankki** challenge.
 
 **🔗 Live demo:** https://oma-4qvl.onrender.com/ 
-**🎥 Video:** *add your video link here*
+**🎥 Video:** https://www.loom.com/share/a40af87b7b184ad58ed9d8313280f75a 
 
 > Your bank tells you where your money went. OMA helps you understand what it means, and what you can do next.
 
