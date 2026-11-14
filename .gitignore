@@ -1,0 +1,6 @@
+node_modules/
+__pycache__/
+.env
+data/cache/
+data/overrides.json
+data/sbank/
